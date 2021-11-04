@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h2{
+  color: darkred;
+  font-size: 50px;
+}
+button{
+  width: 100px;
+  background-color: darkred;
+  color: azure;
+  height: 100px;
+  border-radius: 50px;
+}
+h4{
+  color: darkred;
+}
